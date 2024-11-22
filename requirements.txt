@@ -1,0 +1,13 @@
+scipy==1.7
+yfinance
+pandas-datareader
+pandas-market-calendars
+smt
+pandas
+numpy
+py_vollib_vectorized 
+nelson-siegel-svensson
+holidays
+seaborn
+torch
+pytorch-lightning
